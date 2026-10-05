@@ -1,4 +1,3 @@
-# JarvisV
 # JARVIS
 
 A modular, voice-first personal AI agent. Phone-first, cloud/free services only, $0 baseline.
